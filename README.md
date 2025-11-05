@@ -1,0 +1,1 @@
+i made this project with the intention of writing a program that would automatically log the bombline shop every day. i do not know if i will ever finish this but i'm just dumping the latest stuff here.
