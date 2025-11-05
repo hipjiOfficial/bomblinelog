@@ -6,6 +6,8 @@ function onOpen() {
     .addItem('Count Lost Media', 'daysLost')
     .addToUi();
 }
-/*
-This makes a little button at the top that gives you a menu where you can run each function. 
+
+//This makes a little button at the top that gives you a menu where you can run each function. 
+
+
 
