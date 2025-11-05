@@ -31,5 +31,3 @@ function colorCellsBasedOnReferenceList() {
 
   logRange.setBackgrounds(newColors);
 }
-
-// there are 85 player cards as of 7/20/25
